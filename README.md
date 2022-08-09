@@ -1,4 +1,4 @@
-###  Привет!👋 Меня зовут Роман. Я  Python-разработчик.
+###  Привет!  👋  Меня зовут Роман. Я  Python-разработчик.
 
 ***Языки и инструменты: Python, Django, SQL, PostgreSQL, Linux, Docker, Nginx.***
 
