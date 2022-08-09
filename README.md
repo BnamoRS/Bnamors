@@ -1,6 +1,6 @@
 ###  Привет!  👋  Меня зовут Роман. Я  Python-разработчик.
 
-***Языки и инструменты: Python, Django framework, Django REST, SQL, PostgreSQL, Linux, Docker, Nginx.***
+***Языки и инструменты: Python, Django framework, Django REST, SQL, PostgreSQL, Linux, Docker, Nginx, HTML, CSS.***
 
 <!--
 **BnamoRS/Bnamors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
